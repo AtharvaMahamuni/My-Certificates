@@ -4,3 +4,6 @@
 <br/><br/>
 ![Python Course](https://github.com/AtharvaMahamuni/My-Certificates/blob/main/Courses/technical/pythonUdemy.png)
 <br/><br/>
+![Google Tchnical support fundamentals](https://github.com/AtharvaMahamuni/My-Certificates/blob/main/Courses/technical/Coursera_Google_tech_supp_fundamental.jpeg)
+<br/><br/>
+![HTML](https://github.com/AtharvaMahamuni/My-Certificates/blob/main/Courses/technical/Coursera%20HTML.pdf)
