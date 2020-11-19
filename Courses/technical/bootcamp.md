@@ -10,3 +10,5 @@
     <embed src="https://github.com/AtharvaMahamuni/My-Certificates/blob/main/Courses/technical/Coursera%20HTML.pdf">
     </embed>
 </object>
+<br/><br/>
+![MySQL Bootcamp Learncodeonline.in](https://github.com/AtharvaMahamuni/My-Certificates/blob/main/Courses/technical/MySQL%20certificate.png)
