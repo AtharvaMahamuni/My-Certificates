@@ -1,5 +1,5 @@
 # My-Certificates
-This is the repository of my all certificates
+Certificates:
 <br/><br/>
 [**Bootcamps/Courses/Workshops**](https://github.com/AtharvaMahamuni/My-Certificates/blob/main/Courses/technical/bootcamp.md)
 <br/><br/>
