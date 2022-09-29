@@ -12,3 +12,6 @@
 </object>
 <br/><br/>
 ![MySQL Bootcamp Learncodeonline.in](https://github.com/AtharvaMahamuni/My-Certificates/blob/main/Courses/technical/MySQL%20certificate.png)
+
+<br><br>
+![HTML CSS Bootcamp Certificate](https://github.com/AtharvaMahamuni/My-Certificates/blob/main/Courses/technical/Html-css%20LCO%20course.png)
